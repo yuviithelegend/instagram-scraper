@@ -17,7 +17,7 @@
             "description": "What type of pages to search (you can search hashtags, profiles and places)",
             "editor": "select",
             "enum": ["user", "hashtag", "place"],
-            "enumTitles": ["Search users", "Search hashtags", "Search places"],
+            "enumTitles": ["Search users", "Search hashtags", "Search places", "List of followers"],
             "default": "hashtag"
         },
         "searchLimit": {
